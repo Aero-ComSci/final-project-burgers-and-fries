@@ -5,7 +5,7 @@ Who is the program for?
 What the program does, what does it automate?
      This program helps the user in creating any ice-cream of their choice. It automates the buttons to the amount of money the user will spend on the particular ice cream they are making. This way the user knows how much they are spending and in what ways they can continue making their ice-cream. 
 
-IMAGES: 
+ICE CREAM IMAGES: 
 ![C7E103D7-7165-45A2-8194-CD7ECF9EA939](https://github.com/user-attachments/assets/ac8c838a-50c2-45a8-9b3b-3facf3b25b9f)
 ![2212E990-7AF4-4DA2-8F8F-E418392B90AA](https://github.com/user-attachments/assets/9848a8ec-c366-44cc-b1ff-745f27f817e0)
 ![453EB051-C823-42D6-A18A-1B0FA51AD624](https://github.com/user-attachments/assets/8071fec6-1620-4f87-9883-a43cb68a1fbc)
