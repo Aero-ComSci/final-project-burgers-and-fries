@@ -23,8 +23,12 @@ B-FA406BBEFF28](https://github.com/user-attachments/assets/c7cd63ce-304d-426d-9c
 
 # ੈ✩‧₊˚Credits
 Dimira+Anya: Helped with and checked the code, made the readme, made a backup plan
+
 Tiger: Implemented adding images code/made the butons work more efficiently, made the code functional
+
 Joyce: Began the code/backbone of the code, added/made custom sprites, made program more visually appealing
+
+Copilot/Gemini/Google Overview: Guided us through the process of adding images/sprites, disabling buttons, overlapping images, etc
 
 ![image](https://github.com/user-attachments/assets/676a6de2-0e04-444e-85d2-02b3608fe256)
 
